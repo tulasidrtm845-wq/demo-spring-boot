@@ -3,7 +3,6 @@
   "extends": [
     "config:recommended"
   ],
-  #to group your dependency updates together to appear in single pull request adding packagerules object
   "packageRules": [
     {
       "matchPackagePatterns": ["*"],
